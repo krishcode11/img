@@ -1,0 +1,2 @@
+A secret NFT with ID: 678292e42a38a82148962714
+A secret key: bab0067c46a9f3310b1ce2c8f2d1217019c0e76d0a2d475fc77d6a1ab204323a
